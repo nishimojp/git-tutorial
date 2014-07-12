@@ -1,5 +1,8 @@
 # Gitチュートリアル
 ## ようこそGitHubへ
-### 1. コマンド一覧
+<<<<<<< HEAD
+### 1. Gitとは？
+### 2. Gitコマンド一覧
 * git status
 * git log
+
